@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I’m **afermar**, a curious tech enthusiast with no formal CS/STEM background — but a big passion for **linux**, **self-hosting** and exploring the open-source world.  
+I’m **afermar**, a curious tech enthusiast with no formal CS/STEM background but a big passion for **linux**, **self-hosting** and exploring the open-source world.  
 
 ---
 
@@ -21,7 +21,6 @@ I’m **afermar**, a curious tech enthusiast with no formal CS/STEM background �
 ## 📈 What I’m Working On
 - 🛠️ Automating my home server and VPS setup
 - 📂 Building a personal knowledge base
-- ⚙️ Learning about CI/CD with GitHub Actions  
 
 ---
 
