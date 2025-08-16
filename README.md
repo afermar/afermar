@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**afermar/afermar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **afermar**, a curious tech enthusiast with no formal CS/STEM background — but a big passion for **linux**, **self-hosting** and exploring the open-source world.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌱 Always learning by doing  
+- 💡 Interested in home servers, automation, linux, android and privacy-friendly tools  
+- ⚡ Currently experimenting with Docker, reverse proxies, and Linux servers 
+
+---
+
+## 🔧 Tech & Tools I Use
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+
+---
+
+## 📈 What I’m Working On
+- 🛠️ Automating my home server and VPS setup
+- 📂 Building a personal knowledge base
+- ⚙️ Learning about CI/CD with GitHub Actions  
+
+---
+
+## 🌍 Connect
+- 🌐 [Substack](https://afermar.substack.com/)
+
+
